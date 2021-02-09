@@ -1,0 +1,26 @@
+
+body{
+	font-family: arial, helvetica;
+	background: image(C:\Users\arman\Desktop\MARVEL\image (1).png);
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 300%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: rgb(255, 217, 0);
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
